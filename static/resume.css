@@ -1,0 +1,27 @@
+.resume-container {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    margin-top: 150px; /* Adjust the margin-top value to make it lower */
+    margin-left: 200px; /* Adjust the margin-left value to move it to the right */
+}
+
+.rotate-left {
+    transform: rotate(-90deg);
+}
+
+.download-button  {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #767676;
+    color: white;
+    border: 2px solid orange; /* Orange border */
+    border-radius: 5px;
+}
+
+.download-button:hover {
+    background-color: orange; /* Highlighted orange background on hover */
+    border-color: orange; /* Darker orange border on hover */
+    color: #fff; /* White text on hover */
+}

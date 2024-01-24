@@ -1,0 +1,36 @@
+/* about.css */
+
+#about {
+    background-color: #f8f8f8; /* Set a light background color */
+    padding: 40px; /* Add padding for better spacing */
+    width: 80%; /* Set the width to 80% of the container */
+    margin: 0 auto; /* Center the section horizontally by adding automatic left and right margins */
+}
+
+#about-me {
+    text-align: left; /* Align text to the left */
+}
+
+#about-me h2 {
+    color: #333; /* Set heading color */
+}
+
+#about-me p {
+    line-height: 1.6; /* Adjust line height for better readability */
+    color: #666; /* Set paragraph text color */
+}
+
+#about-me strong {
+    font-weight: bold; /* Make strong text bold */
+    color: #333; /* Set strong text color */
+}
+
+#about-me a {
+    color: #3498db; /* Set link color */
+    text-decoration: none; /* Remove underline from links */
+}
+
+#about-me a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
